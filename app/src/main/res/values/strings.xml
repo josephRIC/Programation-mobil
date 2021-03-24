@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BMI calculator</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notification">Notifications</string>
+    <string name="str_test">Test</string>
+    <string name="poids">Weight :</string>
+    <string name="d_terminez_votre_poids">Determine your weight :</string>
+    <string name="taille">Height :</string>
+    <string name="m_tre">Meter</string>
+    <string name="appr_ciation">Appreciation</string>
+    <string name="calculer_l_imc">Calculate BMI</string>
+    <string name="reset">Reset</string>
+    <string name="r_sultat">Result:</string>
+    <string name="vous_devez_cliquer_sur_le_bouton_calculer_l_imc_pour_obtenir_un_r_sultat">You have to click on \"Calculate BMI\" to get a resukt</string>
+    <string name="centim_tre">Centimeter</string>
+    <string name="d_terminez_votre_taille">Determine your height :</string>
+</resources>
